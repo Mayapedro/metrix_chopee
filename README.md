@@ -1,46 +1,49 @@
-# Welcome to my public workspace! I'm dedicated to building responsive, scalable mobile applications from the ground up, managing everything from cloud infrastructure to pixel-perfect UI. 👋
+🚀 Full Stack Mobile Developer | [Your Name/Handle]
 
+Welcome to my public workspace! I'm dedicated to building responsive, scalable mobile applications from the ground up, managing everything from cloud infrastructure to pixel-perfect UI. 👋
 
+✨ Professional Bio Summary
 
-## 🛠 Core Skills
+Crafting seamless, data-driven applications with React Native (or Flutter) and Node.js/Firebase. Focused on clean architecture, robust backends, and optimal user experience across platforms.
 
-| ssj :--- | sjsj :--- |
+🛠 Core Skills
 
-2. Start the app
+Category
 
-   ```bash
-   npx expo start
-   ```
+Technologies & Tools
 
-In the output, you'll find options to open the app in a
+Mobile Frontend
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+React Native (or Flutter), Expo, Redux/Context API, React Navigation
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Backend & API
 
-## Get a fresh project
+Node.js, Express, Firebase (Firestore/Auth/Functions), RESTful APIs, GraphQL
 
-When you're ready, run:
+Databases
 
-```bash
-npm run reset-project
-```
+PostgreSQL, MongoDB, Firestore (NoSQL), SQL Design
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+DevOps & Tools
 
-## Learn more
+Git, GitHub Actions, Docker, AWS/GCP Basics
 
-To learn more about developing your project with Expo, look at the following resources:
+🔗 Let's Connect
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Platform
 
-## Join the community
+Link/Handle
 
-Join our community of developers creating universal apps.
+Portfolio Website
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+[Your Live Portfolio URL Here]
+
+LinkedIn
+
+[Your LinkedIn Profile URL]
+
+Email
+
+[Your Professional Email Address]
+
+💡 Pinned Repositories below showcase my full-stack capabilities in action, demonstrating real-time data management, native device features, and robust API design.
