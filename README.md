@@ -1,13 +1,14 @@
-🚀 Full Stack Mobile Developer | [Your Name/Handle]
+# 🚀 Full Stack Mobile Developer | 
+
+$$Your Name/Handle$$
 
 Welcome to my public workspace! I'm dedicated to building responsive, scalable mobile applications from the ground up, managing everything from cloud infrastructure to pixel-perfect UI. 👋
 
-✨ Professional Bio Summary
+### ✨ Professional Bio Summary
 
 Crafting seamless, data-driven applications with React Native (or Flutter) and Node.js/Firebase. Focused on clean architecture, robust backends, and optimal user experience across platforms.
 
-🛠 Core Skills
-
+## 🛠 Core Skills
 Category
 
 Technologies & Tools
