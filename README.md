@@ -9,7 +9,13 @@ Welcome to my public workspace! I'm dedicated to building responsive, scalable m
 Crafting seamless, data-driven applications with React Native (or Flutter) and Node.js/Firebase. Focused on clean architecture, robust backends, and optimal user experience across platforms.
 
 ## 🛠 Core Skills
-Category
+
+| Category | Technologies & Tools |
+| ----- | ----- |
+| **Mobile Frontend** | **React Native** (or Flutter), Expo, Redux/Context API, React Navigation |
+| **Backend & API** | **Node.js, Express, Firebase** (Firestore/Auth/Functions), RESTful APIs, GraphQL |
+| **Databases** | PostgreSQL, MongoDB, Firestore (NoSQL), SQL Design |
+| **DevOps & Tools** | Git, GitHub Actions, Docker, AWS/GCP Basics |
 
 Technologies & Tools
 
