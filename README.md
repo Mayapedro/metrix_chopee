@@ -4,7 +4,7 @@
 
 ## 🛠 Core Skills
 
-| :--- | :--- |
+| ssj :--- | sjsj :--- |
 
 2. Start the app
 
