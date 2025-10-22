@@ -21,9 +21,9 @@ Crafting seamless, data-driven applications with React Native (or Flutter) and N
 
 | Platform | Links/handles |
 | ----- | ----- |
-| **Portfolio Website** | **React Native** (or Flutter), Expo, Redux/Context API, React Navigation |
-| **LinkedIn** | **[Google](https://www.google.com) |
-| **Email** | PostgreSQL, MongoDB, Firestore (NoSQL), SQL Design |
+| **Portfolio Website** | [Mayapedro](https://jhay-tech.page.gd)|
+| **LinkedIn** | [Mayapedro](https://www.google.com) |
+| **Email** | [Delight](mailto:delightatuchukwu@gmail.com) |
 
 
 PostgreSQL, MongoDB, Firestore (NoSQL), SQL Design
