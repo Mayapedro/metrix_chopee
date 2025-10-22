@@ -1,6 +1,6 @@
 # 🚀 Full Stack Mobile Developer | 
 
-$$Your Name/Handle$$
+$$Mayapedro/metrix_chopee$$
 
 Welcome to my public workspace! I'm dedicated to building responsive, scalable mobile applications from the ground up, managing everything from cloud infrastructure to pixel-perfect UI. 👋
 
@@ -17,17 +17,14 @@ Crafting seamless, data-driven applications with React Native (or Flutter) and N
 | **Databases** | PostgreSQL, MongoDB, Firestore (NoSQL), SQL Design |
 | **DevOps & Tools** | Git, GitHub Actions, Docker, AWS/GCP Basics |
 
-Technologies & Tools
+## 🔗 Let's Connect
 
-Mobile Frontend
+| Platform | Links/handles |
+| ----- | ----- |
+| **Portfolio Website** | **React Native** (or Flutter), Expo, Redux/Context API, React Navigation |
+| **LinkedIn** | **[Google](https://www.google.com) |
+| **Email** | PostgreSQL, MongoDB, Firestore (NoSQL), SQL Design |
 
-React Native (or Flutter), Expo, Redux/Context API, React Navigation
-
-Backend & API
-
-Node.js, Express, Firebase (Firestore/Auth/Functions), RESTful APIs, GraphQL
-
-Databases
 
 PostgreSQL, MongoDB, Firestore (NoSQL), SQL Design
 
