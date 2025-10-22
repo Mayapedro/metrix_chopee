@@ -12,7 +12,7 @@ Crafting seamless, data-driven applications with React Native (or Flutter) and N
 
 | Category | Technologies & Tools |
 | ----- | ----- |
-| **Mobile Frontend** | **React Native** (or Flutter), Expo, Redux/Context API, React Navigation |
+| **Mobile Frontend** | **React Native** , Expo, Redux/Context API, React Navigation |
 | **Backend & API** | **Node.js, Express, Firebase** (Firestore/Auth/Functions), RESTful APIs, GraphQL |
 | **Databases** | PostgreSQL, MongoDB, Firestore (NoSQL), SQL Design |
 | **DevOps & Tools** | Git, GitHub Actions, Docker, AWS/GCP Basics |
@@ -25,29 +25,5 @@ Crafting seamless, data-driven applications with React Native (or Flutter) and N
 | **LinkedIn** | [Mayapedro](https://www.google.com) |
 | **Email** | [Delight](mailto:delightatuchukwu@gmail.com) |
 
-
-PostgreSQL, MongoDB, Firestore (NoSQL), SQL Design
-
-DevOps & Tools
-
-Git, GitHub Actions, Docker, AWS/GCP Basics
-
-🔗 Let's Connect
-
-Platform
-
-Link/Handle
-
-Portfolio Website
-
-[Your Live Portfolio URL Here]
-
-LinkedIn
-
-[Your LinkedIn Profile URL]
-
-Email
-
-[Your Professional Email Address]
 
 💡 Pinned Repositories below showcase my full-stack capabilities in action, demonstrating real-time data management, native device features, and robust API design.
