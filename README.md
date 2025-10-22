@@ -1,14 +1,10 @@
-# Welcome to your Expo app 👋
+# Welcome to my public workspace! I'm dedicated to building responsive, scalable mobile applications from the ground up, managing everything from cloud infrastructure to pixel-perfect UI. 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
 
-1. Install dependencies
+## 🛠 Core Skills
 
-   ```bash
-   npm install
-   ```
+| :--- | :--- |
 
 2. Start the app
 
