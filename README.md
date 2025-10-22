@@ -21,9 +21,9 @@ Crafting seamless, data-driven applications with React Native (or Flutter) and N
 
 | Platform | Links/handles |
 | ----- | ----- |
-| **Portfolio Website** | [Mayapedro](https://jhay-tech.page.gd)|
-| **LinkedIn** | [Mayapedro](https://www.google.com) |
-| **Email** | [Delight](mailto:delightatuchukwu@gmail.com) |
+| **Portfolio Website** | [My portfolio Website](https://jhay-tech.page.gd)|
+| **LinkedIn** | [connect on linkedIn](https://www.google.com) |
+| **Email** | [Email me directly](mailto:delightatuchukwu@gmail.com) |
 
 
 💡 Pinned Repositories below showcase my full-stack capabilities in action, demonstrating real-time data management, native device features, and robust API design.
